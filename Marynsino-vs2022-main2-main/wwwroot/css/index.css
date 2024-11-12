@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+
+
+:root {
+    --darkiest-color: #ec2214;   
+  
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+  
+}
+
+html {
+    min-height: 100vh;
+}
+
+main {
+    min-height: calc(100vh - 100px);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.bem-vindo {
+    color: white;
+    font-family: 'Roboto', cursive;
+    font-weight: 700;
+}
+
+a {
+    text-decoration: none !important;
+    color: white !important;
+}
+
+p {
+    color: white;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid var(--orange-color);
+    border-radius: 50px;
+    color: var(--text-color); /* Atualize a cor do texto dos inputs */
+}
+
+input:focus, select:focus {
+    outline: 4px solid var(--darkless-color) !important;
+}
+
+select option:hover {
+    background-color: var(--darkless-color);
+    color: var(--text-color); /* Atualize a cor do texto das opções do select */
+}
+
+/*--------------------------------------------------------------
+# Sections General
+--------------------------------------------------------------*/
+section {
+    padding: 3.5em 0 2em 0;
+    overflow: hidden;
+    color: var(--text-color); /* Atualize a cor do texto nas seções */
+}
+
+.section-title {
+    text-align: center;
+    /* padding-bottom: 30px; */
+}
+
+.section-title h2 {
+    font-size: 32px;
+    font-weight: bold;
+    /* margin-bottom: 20px; */
+    padding-bottom: 20px;
+    position: relative;
+    color: var(--darkiest-color);
+}
+
+footer {
+    max-height: 85px;
+    padding-top: .8em;
+    color: var(--text-color); /* Atualize a cor do texto no rodapé */
+}
+
+.page-maneger {
+    background-color: var(--white-color);
+    margin-top: 2.5em;
+    border-radius: 8px;
+    box-shadow: 2px 0 10px -2px var(--darkiest-color);
+    height: 590px;
+    overflow: hidden;
+   
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+.section-title {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.add-user-button {
+    margin-bottom: 20px;
+}
+
+.table-container {
+    margin-top: 20px;
+}
+
+/* Estilos para os modais */
+.modal-content {
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+}
+
+.modal-header {
+    background-color: #e40a0a;
+    color: white;
+    border-color: #e40a0a;
+}
+
+.modal-body, .modal-footer {
+    color: #333;
+}
+
+    .modal-footer .btn-primary {
+        background-color: #e40a0a;
+        border-color: #e40a0a;
+    }
+
+/* Estilos para botões */
+.btn-default {
+    background-color: transparent;
+    border: none;
+    color: #666;
+}
+
+    .btn-default:hover {
+        color: white;
+    }    
+   
