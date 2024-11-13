@@ -1,14 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\",
+  "WorkspaceRootPath": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{13A0E546-8094-43DD-B266-D4D027F486E6}|Marynsino2513.csproj|c:\\users\\aluno noite\\downloads\\marynsino-vs2022-main2-main\\marynsino-vs2022-main2-main\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{13A0E546-8094-43DD-B266-D4D027F486E6}|Marynsino2513.csproj|solutionrelative:views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{97FB5A5B-506A-4EC5-9518-51EEBA067CAE}|..\\TestMarynsino\\TestMarynsino.csproj|c:\\users\\aluno noite\\downloads\\marynsino-banco2\\testmarynsino\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13A0E546-8094-43DD-B266-D4D027F486E6}|Marynsino2513.csproj|c:\\users\\aluno noite\\downloads\\marynsino-vs2022-main2-main\\marynsino-vs2022-main2-main\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13A0E546-8094-43DD-B266-D4D027F486E6}|Marynsino2513.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{13A0E546-8094-43DD-B266-D4D027F486E6}|Marynsino2513.csproj|c:\\users\\aluno noite\\downloads\\marynsino-banco2\\marynsino-vs2022-main2-main\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13A0E546-8094-43DD-B266-D4D027F486E6}|Marynsino2513.csproj|solutionrelative:views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +26,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "Controllers\\UsuarioController.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAIwC8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T19:36:33.773Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\Views\\Usuario\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Usuario\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\Views\\Usuario\\Index.cshtml",
+              "RelativeToolTip": "Views\\Usuario\\Index.cshtml",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAM4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T19:32:17.035Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\Views\\Usuario\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Usuario\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\Views\\Usuario\\Index.cshtml",
-              "RelativeToolTip": "Views\\Usuario\\Index.cshtml",
-              "ViewState": "AQIAAFoAAAAAAAAAAAAAAF0AAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T18:28:02.188Z",
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\TestMarynsino\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\TestMarynsino\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\TestMarynsino\\UnitTest1.cs",
+              "RelativeToolTip": "..\\TestMarynsino\\UnitTest1.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAIwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T18:40:46.271Z",
               "EditorCaption": ""
             }
           ]

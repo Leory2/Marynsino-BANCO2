@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "yr2bkOVbd5rnVly+5+xQaFfavKs5SZ+OgxO6OgVxqmQ=",
+  "Hash": "7RFrypTMb23OCGmPznXdfrTA7V68VBNrSUlDrWVYlSU=",
   "Source": "Marynsino2513",
   "BasePath": "_content/Marynsino2513",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Marynsino2513\\wwwroot",
       "Source": "Marynsino2513",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Marynsino2513.styles.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Marynsino2513.styles.css",
       "SourceId": "Marynsino2513",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "Marynsino2513.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Marynsino2513.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Marynsino2513.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Marynsino2513.bundle.scp.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Marynsino2513.bundle.scp.css",
       "SourceId": "Marynsino2513",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "Marynsino2513.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Marynsino2513.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Marynsino2513.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\css\\AgendamentoDeUsuario.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\css\\AgendamentoDeUsuario.css",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "css/AgendamentoDeUsuario.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\AgendamentoDeUsuario.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\css\\index.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\css\\index.css",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "css/index.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\index.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\css\\login.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\css\\login.css",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "css/login.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\css\\login.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\css\\main.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\css\\main.css",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "css/main.css",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\css\\main.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\css\\responsive.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\css\\responsive.css",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "css/responsive.css",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\css\\responsive.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\css\\submenu.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\css\\submenu.css",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "css/submenu.css",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\css\\submenu.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\favicon.ico",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\images\\About\\logo.jpg",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\images\\About\\logo.jpg",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "images/About/logo.jpg",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\images\\About\\logo.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\images\\Blogs\\blog1.png",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\images\\Blogs\\blog1.png",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "images/Blogs/blog1.png",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Blogs\\blog1.png"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\images\\Blogs\\blog2.png",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\images\\Blogs\\blog2.png",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "images/Blogs/blog2.png",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Blogs\\blog2.png"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\images\\Blogs\\blog3.png",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\images\\Blogs\\blog3.png",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "images/Blogs/blog3.png",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Blogs\\blog3.png"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\images\\Blogs\\blog4.png",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\images\\Blogs\\blog4.png",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "images/Blogs/blog4.png",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Blogs\\blog4.png"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\images\\Blogs\\blog5.png",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\images\\Blogs\\blog5.png",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "images/Blogs/blog5.png",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Blogs\\blog5.png"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\images\\Home\\logo.jpg",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\images\\Home\\logo.jpg",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "images/Home/logo.jpg",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Home\\logo.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\images\\Portfolio\\_reforco-escolar.png",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\images\\Portfolio\\_reforco-escolar.png",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "images/Portfolio/_reforco-escolar.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Portfolio\\_reforco-escolar.png"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\images\\Portfolio\\certificado pae.avif",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\images\\Portfolio\\certificado pae.avif",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "images/Portfolio/certificado pae.avif",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Portfolio\\certificado pae.avif"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\images\\Portfolio\\cursinho vestibular.jpg",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\images\\Portfolio\\cursinho vestibular.jpg",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "images/Portfolio/cursinho vestibular.jpg",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Portfolio\\cursinho vestibular.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\images\\Portfolio\\cursos tecnicos.jpg",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\images\\Portfolio\\cursos tecnicos.jpg",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "images/Portfolio/cursos tecnicos.jpg",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Portfolio\\cursos tecnicos.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\images\\Portfolio\\professores-particulares.jpg",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\images\\Portfolio\\professores-particulares.jpg",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "images/Portfolio/professores-particulares.jpg",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Portfolio\\professores-particulares.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\images\\Portfolio\\web educaçaõ.jpg",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\images\\Portfolio\\web educaçaõ.jpg",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "images/Portfolio/web educaçaõ.jpg",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Portfolio\\web educaçaõ.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\images\\Testimonials\\pessoa 1.jpg",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\images\\Testimonials\\pessoa 1.jpg",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "images/Testimonials/pessoa 1.jpg",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Testimonials\\pessoa 1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\images\\Testimonials\\pessoa 4.jpg",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\images\\Testimonials\\pessoa 4.jpg",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "images/Testimonials/pessoa 4.jpg",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Testimonials\\pessoa 4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\images\\Testimonials\\pessoa 5.png",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\images\\Testimonials\\pessoa 5.png",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "images/Testimonials/pessoa 5.png",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Testimonials\\pessoa 5.png"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\images\\Testimonials\\pessoa 6.jpg",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\images\\Testimonials\\pessoa 6.jpg",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "images/Testimonials/pessoa 6.jpg",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Testimonials\\pessoa 6.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\images\\Testimonials\\pessoa2.jpg",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\images\\Testimonials\\pessoa2.jpg",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "images/Testimonials/pessoa2.jpg",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Testimonials\\pessoa2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\images\\Testimonials\\pessoa3.jpg",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\images\\Testimonials\\pessoa3.jpg",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "images/Testimonials/pessoa3.jpg",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Testimonials\\pessoa3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\js\\blog-slider.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\js\\blog-slider.js",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "js/blog-slider.js",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\js\\blog-slider.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\js\\counter-up.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\js\\counter-up.js",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "js/counter-up.js",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\js\\counter-up.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\js\\portfolio.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\js\\portfolio.js",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "js/portfolio.js",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\js\\portfolio.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\js\\script.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\js\\script.js",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "js/script.js",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\js\\script.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\js\\scroll-spy.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\js\\scroll-spy.js",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "js/scroll-spy.js",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\js\\scroll-spy.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\js\\site.js",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\js\\testi-slider.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\js\\testi-slider.js",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "js/testi-slider.js",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\js\\testi-slider.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.css",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/bootstrap-icons/bootstrap-icons.css",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.json",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.json",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/bootstrap-icons/bootstrap-icons.json",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.json"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.min.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.min.css",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/bootstrap-icons/bootstrap-icons.min.css",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.min.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.scss",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.scss",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/bootstrap-icons/bootstrap-icons.scss",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.scss"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/bootstrap-icons/fonts/bootstrap-icons.woff",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/bootstrap-icons/fonts/bootstrap-icons.woff2",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\boxicons\\css\\animations.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\boxicons\\css\\animations.css",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/boxicons/css/animations.css",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\boxicons\\css\\animations.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\boxicons\\css\\boxicons.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\boxicons\\css\\boxicons.css",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/boxicons/css/boxicons.css",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\boxicons\\css\\boxicons.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\boxicons\\css\\boxicons.min.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\boxicons\\css\\boxicons.min.css",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/boxicons/css/boxicons.min.css",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\boxicons\\css\\boxicons.min.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\boxicons\\css\\transformations.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\boxicons\\css\\transformations.css",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/boxicons/css/transformations.css",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\boxicons\\css\\transformations.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\boxicons\\fonts\\boxicons.eot",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\boxicons\\fonts\\boxicons.eot",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/boxicons/fonts/boxicons.eot",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\boxicons\\fonts\\boxicons.eot"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\boxicons\\fonts\\boxicons.svg",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\boxicons\\fonts\\boxicons.svg",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/boxicons/fonts/boxicons.svg",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\boxicons\\fonts\\boxicons.svg"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\boxicons\\fonts\\boxicons.ttf",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\boxicons\\fonts\\boxicons.ttf",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/boxicons/fonts/boxicons.ttf",
       "AssetKind": "All",
@@ -1784,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\boxicons\\fonts\\boxicons.ttf"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\boxicons\\fonts\\boxicons.woff",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\boxicons\\fonts\\boxicons.woff",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/boxicons/fonts/boxicons.woff",
       "AssetKind": "All",
@@ -1803,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\boxicons\\fonts\\boxicons.woff"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\boxicons\\fonts\\boxicons.woff2",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\boxicons\\fonts\\boxicons.woff2",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/boxicons/fonts/boxicons.woff2",
       "AssetKind": "All",
@@ -1822,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\boxicons\\fonts\\boxicons.woff2"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\glightbox\\css\\glightbox.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\glightbox\\css\\glightbox.css",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/glightbox/css/glightbox.css",
       "AssetKind": "All",
@@ -1841,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\glightbox\\css\\glightbox.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\glightbox\\css\\glightbox.min.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\glightbox\\css\\glightbox.min.css",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/glightbox/css/glightbox.min.css",
       "AssetKind": "All",
@@ -1860,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\glightbox\\css\\glightbox.min.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\glightbox\\css\\plyr.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\glightbox\\css\\plyr.css",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/glightbox/css/plyr.css",
       "AssetKind": "All",
@@ -1879,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\glightbox\\css\\plyr.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\glightbox\\css\\plyr.min.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\glightbox\\css\\plyr.min.css",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/glightbox/css/plyr.min.css",
       "AssetKind": "All",
@@ -1898,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\glightbox\\css\\plyr.min.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\glightbox\\js\\glightbox.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\glightbox\\js\\glightbox.js",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/glightbox/js/glightbox.js",
       "AssetKind": "All",
@@ -1917,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\glightbox\\js\\glightbox.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\glightbox\\js\\glightbox.min.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\glightbox\\js\\glightbox.min.js",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/glightbox/js/glightbox.min.js",
       "AssetKind": "All",
@@ -1936,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\glightbox\\js\\glightbox.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1974,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1993,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2031,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2050,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2069,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2088,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2107,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2126,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2145,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -2164,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\swiper\\swiper-bundle.min.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\swiper\\swiper-bundle.min.css",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/swiper/swiper-bundle.min.css",
       "AssetKind": "All",
@@ -2183,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\swiper\\swiper-bundle.min.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\swiper\\swiper-bundle.min.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\swiper\\swiper-bundle.min.js",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/swiper/swiper-bundle.min.js",
       "AssetKind": "All",
@@ -2202,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\swiper\\swiper-bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\swiper\\swiper-bundle.min.js.map",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\lib\\swiper\\swiper-bundle.min.js.map",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "lib/swiper/swiper-bundle.min.js.map",
       "AssetKind": "All",
@@ -2221,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\swiper\\swiper-bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\vendors\\jquery\\jquery-3.6.0.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\vendors\\jquery\\jquery-3.6.0.js",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "vendors/jquery/jquery-3.6.0.js",
       "AssetKind": "All",
@@ -2240,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\jquery\\jquery-3.6.0.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\vendors\\magnific-popup\\jquery.magnific-popup.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\vendors\\magnific-popup\\jquery.magnific-popup.js",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "vendors/magnific-popup/jquery.magnific-popup.js",
       "AssetKind": "All",
@@ -2259,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\magnific-popup\\jquery.magnific-popup.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\vendors\\magnific-popup\\magnific-popup.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\vendors\\magnific-popup\\magnific-popup.css",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "vendors/magnific-popup/magnific-popup.css",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\magnific-popup\\magnific-popup.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\vendors\\swiper\\swiper.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\vendors\\swiper\\swiper.css",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "vendors/swiper/swiper.css",
       "AssetKind": "All",
@@ -2297,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\swiper\\swiper.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\vendors\\swiper\\swiper.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\vendors\\swiper\\swiper.js",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "vendors/swiper/swiper.js",
       "AssetKind": "All",
@@ -2316,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\swiper\\swiper.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\vendors\\typed\\typed.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\vendors\\typed\\typed.js",
       "SourceId": "Marynsino2513",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-vs2022-main2-main\\Marynsino-vs2022-main2-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\wwwroot\\",
       "BasePath": "_content/Marynsino2513",
       "RelativePath": "vendors/typed/typed.js",
       "AssetKind": "All",

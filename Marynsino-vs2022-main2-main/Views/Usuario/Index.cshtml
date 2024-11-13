@@ -20,7 +20,7 @@
                 <div class="row">
                     <div class="col-md-6">
                         <div class="input-group mb-4">
-                            <input id="filtro" type="text" class="form-control" placeholder="Pesquisar Produtos..." aria-label="Filtrar" aria-describedby="basic-addon2">
+                            <input id="filtro" type="text" class="form-control" placeholder="Pesquisar Usuários..." aria-label="Filtrar" aria-describedby="basic-addon2">
                         </div>
                     </div>
                     <div class="col-md-6 text-md-end">
@@ -31,8 +31,7 @@
                     </div>
                 </div>
             </div>
-
-            <div class="table-container" style="max-height: 400px; overflow-y: auto;">
+            <div style="max-height: 400px; overflow-y: auto;">
                 <!-- Tabela com cabeçalho fixo -->
                 <table id="TbClientes" class="table" style="width: 100%; border-collapse: collapse; table-layout: fixed;">
                     <!-- Cabeçalho fixo -->
@@ -40,10 +39,10 @@
                         <tr>
                             <th style="border: 1px solid black; padding: 8px; width: 50px; position: sticky; top: 0; background-color: red; z-index: 2;">#</th>
                             <th style="border: 1px solid black; padding: 8px; width: 190px; position: sticky; top: 0; background-color: red; z-index: 2;">Nome</th>
-                            <th style="border: 1px solid black; padding: 8px; width: 230px; position: sticky; top: 0; background-color: red; z-index: 2;">Senha</th>
+                            <th style="border: 1px solid black; padding: 8px; width: 230px; position: sticky; top: 0; background-color:red; z-index: 2;">Senha</th>
                             <th style="border: 1px solid black; padding: 8px; width: 312px; position: sticky; top: 0; background-color: red; z-index: 2;">Email</th>
                             <th style="border: 1px solid black; padding: 8px; width: 160px; position: sticky; top: 0; background-color: red; z-index: 2;">Telefone</th>
-                            <th style="border: 1px solid black; padding: 8px; width: 170px; position: sticky; top: 0; background-color: red; z-index: 2;">Tipo de Usuário</th>
+                            <th style="border: 1px solid black; padding: 8px; width: 170px; position: sticky; top: 0; background-color:red ; z-index: 2;">Tipo de Usuário</th>
                             <th class="editar" style="border: 1px solid black; padding: 8px; position: sticky; top: 0; background-color: red; z-index: 2;">Editar</th>
                             <th class="excluir" style="border: 1px solid black; padding: 8px; position: sticky; top: 0; background-color: red; z-index: 2;">Excluir</th>
                         </tr>
@@ -57,28 +56,28 @@
                             @foreach (var usuario in Model)
                             {
                                 <tr>
-                                    <td style="color: black; border: 1px solid #ddd; padding: 8px;width: 50px">@usuario.Id</td>
-                                    <td style="color: black; border: 1px solid #ddd; padding: 8px;width: 190px">@usuario.Nome</td>
-                                    <td style="color: black; border: 1px solid #ddd; padding: 8px; width: 230px">@usuario.Senha</td>
-                                    <td style="color: black; border: 1px solid #ddd; padding: 8px; width: 312px">@usuario.Email</td>
-                                    <td style="color: black; border: 1px solid #ddd; padding: 8px; width: 160px">@usuario.Telefone</td>
+                                    <td style="color: black; border: 1px solid black; padding: 8px;width: 50px">@usuario.Id</td>
+                                    <td style="color: black; border: 1px solid black; padding: 8px;width: 190px">@usuario.Nome</td>
+                                    <td style="color: black; border: 1px solid black; padding: 8px; width: 230px">@usuario.Senha</td>
+                                    <td style="color: black; border: 1px solid black; padding: 8px; width: 312px">@usuario.Email</td>
+                                    <td style="color: black; border: 1px solid black; padding: 8px; width: 160px">@usuario.Telefone</td>
 
                                     @if (usuario.TipoUsuario == 1)
                                     {
-                                        <td style="color: black; border: 1px solid #ddd; padding: 8px; width: 170px">Cliente</td>
+                                        <td style="color: black; border: 1px solid black; padding: 8px; width: 170px">Cliente</td>
                                     }
                                     else
                                     {
-                                        <td style="color: black; border: 1px solid #ddd; padding: 8px; width: 170px">Administrador</td>
+                                        <td style="color: black; border: 1px solid black; padding: 8px; width: 170px">Administrador</td>
                                     }
 
-                                    <td class="text-center" style="border: 1px solid #ddd;">
-                                        <button class="btn btn-default" onclick="definirEdt('@usuario.Id', '@usuario.Nome','@usuario.Email', '@usuario.Senha', '@usuario.TipoUsuario', '@usuario.Telefone')" data-bs-toggle="modal" data-bs-target="#EditarUsuario" style="color: #EAE7DC;">
+                                    <td class="text-center" style="border: 1px solid black;">
+                                        <button class="btn btn-default" onclick="definirEdt('@usuario.Id', '@usuario.Nome','@usuario.Email', '@usuario.Senha', '@usuario.TipoUsuario', '@usuario.Telefone')" data-bs-toggle="modal" data-bs-target="#EditarUsuario" style="color: black;">
                                             <i class="fa fa-edit"></i>
                                         </button>
                                     </td>
-                                    <td class="text-center" style="border: 1px solid #ddd;">
-                                        <button class="btn btn-default" onclick="definirExc('@usuario.Id', '@usuario.Nome', '@usuario.Email', '@usuario.Telefone')" data-bs-toggle="modal" data-bs-target="#ExcluirUsuario" style="color: #EAE7DC;">
+                                    <td class="text-center" style="border: 1px solid black;">
+                                        <button class="btn btn-default" onclick="definirExc('@usuario.Id', '@usuario.Nome', '@usuario.Email', '@usuario.Telefone')" data-bs-toggle="modal" data-bs-target="#ExcluirUsuario" style="color: red;">
                                             <i class="fa fa-trash"></i>
                                         </button>
                                     </td>
@@ -87,15 +86,19 @@
                         </tbody>
                     </table>
                 </div>
-            </div>
-                </div>
-            </div>
 
-        </div>
+                <!-- Contador de Registros Centralizado com Fonte Maior -->
+                <div style="text-align: center; color: black; margin-top: 10px;">
+                    <strong style="font-size: 18px">Total de Usuários: <span id="registroCount">0</span></strong>
+                </div>
+            </div>           
+           
+       </div>
+           
+
+       
       
-        <div style="text-align: center; color: #EAE7DC; margin-top: 10px;">
-            <strong style="font-size: 18px">Total de Usuários: <span id="registroCount">0</span></strong>
-        </div>
+     
 
         <div class="modal fade" id="EditarUsuario" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
             <div class="modal-dialog">
@@ -188,7 +191,7 @@
                                 <input type="text" id="ExcTel" class="form-control" placeholder="Digite seu telefone..." readonly>
 
                             </div>
-                            <input type="hidden" id="IdExc" class="form-control" placeholder="Digite seu nome..." readonly>
+                            <input type="hidden" id="ExcId" class="form-control" placeholder="Digite seu nome..." readonly>
 
                         </form>
                         <div class="modal-footer">
