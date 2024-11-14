@@ -1,13 +1,10 @@
 ﻿@model IEnumerable<Marynsino2513.Models.UsuarioVM>
-
-
-
 @{
     Layout = "~/Views/Shared/_LayoutGerenciamento.cshtml";
 }
 
 <body>
-   
+
     <section class="maneger-page-section">
         <div class="container page-maneger">
 
@@ -15,7 +12,6 @@
                 <h1 class="section-title cliente-title-maneger" style="color: #ec0a0a;">Gerenciamento de Usuários</h1>
                 <br />
             </div>
-
             <div class="container">
                 <div class="row">
                     <div class="col-md-6">
@@ -91,14 +87,9 @@
                 <div style="text-align: center; color: black; margin-top: 10px;">
                     <strong style="font-size: 18px">Total de Usuários: <span id="registroCount">0</span></strong>
                 </div>
-            </div>           
-           
-       </div>
-           
+            </div>
 
-       
-      
-     
+        </div>
 
         <div class="modal fade" id="EditarUsuario" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
             <div class="modal-dialog">
@@ -146,7 +137,7 @@
                                     <label style="color:red">*</label>
                                 </div>
                             </div>
-                            
+
                             <div class="mb-3 row">
                                 <div class="col-md-6">
                                     @Html.DropDownList("EdtTipoUsuario", ViewBag.lstTipoUsuario as SelectList, "Escolha o tipo de Usuário", new { @class = "form-control", @style = "width:230px; background-color: #EAE7DC; color: #333;", required = "required" })
@@ -205,84 +196,73 @@
             </div>
         </div>
 
-        <div class="modal fade" id="InserirUsuario" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <!-- Botão para abrir o modal de inserção de serviço -->
+        <button type="button" class="btn btn-success" data-bs-toggle="modal" data-bs-target="#InserirServico">
+            Adicionar Serviço
+        </button>
+
+        <!-- Modal de Inserção de Serviço -->
+        <div class="modal fade" id="InserirServico" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
 
                     <div class="modal-header" style="background-color: #ee1111; color: white; border-color: #000000;">
-                        <h1 class="modal-title" id="exampleModalLabel">Adicionar Cliente</h1>
+                        <h1 class="modal-title" id="exampleModalLabel">Adicionar Serviço</h1>
                         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                     </div>
 
                     <div class="modal-body">
                         <form>
                             <p style="color:red">Campos com * vermelho são obrigatórios</p>
+
+                            <!-- Campo Tipo do Serviço -->
                             <div class="mb-3 row">
                                 <div class="col-md-6">
-                                    <input id="Nome" type="text" class="form-control" placeholder="Digite o nome do cliente">
+                                    <input id="TipoServico" type="text" class="form-control" placeholder="Digite o tipo do serviço">
                                 </div>
                                 <div class="col-md-6">
                                     <label style="color:red">*</label>
                                 </div>
                             </div>
 
+                            <!-- Campo Preço do Serviço -->
                             <div class="mb-3 row">
                                 <div class="col-md-6">
-                                    <input id="Senha" type="text" class="form-control" placeholder="Digite o a senha">
+                                    <input id="PrecoServico" type="text" class="form-control" placeholder="Digite o preço do serviço">
                                 </div>
                                 <div class="col-md-6">
                                     <label style="color:red">*</label>
                                 </div>
                             </div>
 
+                            <!-- Campo Categoria do Serviço (opcional) -->
                             <div class="mb-3 row">
-                                <div class="col-md-7">
-                                    <input id="Email" type="email" class="form-control" placeholder="Digite o email">
-                                </div>
-                                <div class="col-md-5">
-                                    <label style="color:red">*</label>
+                                <div class="col-md-6">
+                                    <input id="CategoriaServico" type="text" class="form-control" placeholder="Digite a categoria do serviço (opcional)">
                                 </div>
                             </div>
 
-                            <div class="mb-3 row">
-                                <div class="col-md-6">
-                                    <input id="Telefone" type="text" class="form-control" placeholder="Digite o telefone">
-                                </div>
-                                <div class="col-md-6">
-                                    <label style="color:red">*</label>
-                                </div>
-                            </div>
-                            <div class="mb-3 row">
-                                <div class="col-md-6">
-                                    @Html.DropDownList("TipoUsuario", ViewBag.lstTipoUsuario as SelectList, "Escolha o tipo de Usuário", new { @class = "form-control", @style = "width:230px; background-color: #EAE7DC; color: #333;", required = "required" })
-                                </div>
-                                <div class="col-md-6">
-                                    <label style="color:red">*</label>
-                                </div>
-                            </div>
-                            <input type="hidden" id="Id" value="" />
-
+                            <input type="hidden" id="IdServico" value="" />
                         </form>
                     </div>
+
                     <div class="modal-footer">
                         <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fechar</button>
-                        <button type="button" class="btn btn-primary" onclick="InserirUsuario()">Adicionar</button><!--onclick para chamar a funcao de alteração-->
+                        <button type="button" class="btn btn-primary" onclick="InserirServico()">Adicionar</button><!--onclick para chamar a funcao de inserção-->
                     </div>
                 </div>
             </div>
         </div>
-
         <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
 
         <script src="~/lib/swiper/swiper-bundle.min.js"></script>
 
         <script src="~/lib/jquery/dist/jquery.min.js"></script>
 
-        <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>        
-       
+        <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 
         <script>
-           
+
             $(document).ready(function () {
                 // Função para atualizar o contador de registros visíveis
                 function atualizarContador() {
@@ -309,7 +289,7 @@
                 // Inicializa o contador de registros ao carregar a página
                 atualizarContador();
             });
-            
+
             function definirEdt(id, Nome, Email, Senha, TipoUsuario, Telefone) {
 
                 $('#EdtId').val(id);

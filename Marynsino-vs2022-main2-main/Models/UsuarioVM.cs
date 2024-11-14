@@ -13,6 +13,5 @@
         public string Senha { get; set; } = null!;
 
         public int TipoUsuario { get; set; }
-
     }
 }

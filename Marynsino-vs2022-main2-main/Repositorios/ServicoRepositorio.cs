@@ -1,30 +1,45 @@
 ﻿using Marynsino2513.Models;
 using Marynsino2513.ORM;
-using Microsoft.EntityFrameworkCore;
-
 
 namespace Marynsino2513.Repositorios
 {
-    public class UsuarioRepositorio
+    public class ServicoRepositorio
     {
-
         private BdMarynsinoContext _context;
-        public UsuarioRepositorio(BdMarynsinoContext context)
+        public ServicoRepositorio(BdMarynsinoContext context)
         {
             _context = context;
         }
-        public bool InserirUsuario(string nome, string email, string telefone, string senha, int tipoUsuario)
+        public List<ServicoVM> ListarServicos()
+        {
+            List<ServicoVM> listSer = new List<ServicoVM>();
+
+            var listTb = _context.TbServicos.ToList();
+
+            foreach (var item in listTb)
+            {
+                var servicos = new ServicoVM
+                {
+                    Id = item.Id,
+                    TipoServico = item.TipoServico,
+                    Valor = item.Valor,
+                };
+
+                listSer.Add(servicos);
+            }
+
+            return listSer;
+        }
+
+        public bool InserirServico(string tipoServico, decimal valor)
         {
             try
             {
-                TbUsuario usuario = new TbUsuario();
-                usuario.Nome = nome;
-                usuario.Email = email;
-                usuario.Telefone = telefone;
-                usuario.Senha = senha;
-                usuario.TipoUsuario = tipoUsuario;
-
-                _context.TbUsuarios.Add(usuario);  // Supondo que _context.TbUsuarios seja o DbSet para a entidade de usuários
+                TbServico servico = new TbServico();
+                servico.TipoServico = tipoServico;
+                servico.Valor = valor;
+                    
+                  _context.TbServicos.Add(servico);  // Supondo que _context.TbUsuarios seja o DbSet para a entidade de usuários
                 _context.SaveChanges();
 
                 return true;  // Retorna true para indicar sucesso
@@ -35,45 +50,36 @@ namespace Marynsino2513.Repositorios
                 return false;  // Retorna false para indicar falha
             }
         }
-
-        public List<UsuarioVM> ListarUsuarios()
+        public List<ServicoVM> ServicoUsuarios()
         {
-            List<UsuarioVM> listFun = new List<UsuarioVM>();
+            List<ServicoVM> listSer = new List<ServicoVM>();
 
-            var listTb = _context.TbUsuarios.ToList();
+            var listTb = _context.TbServicos.ToList();
 
             foreach (var item in listTb)
             {
-                var usuarios = new UsuarioVM
+                var servicos = new ServicoVM
                 {
                     Id = item.Id,
-                    Nome = item.Nome,
-                    Email = item.Email,
-                    Telefone = item.Telefone,
-                    Senha = item.Senha,
-                    TipoUsuario = item.TipoUsuario,
+                    TipoServico = item.TipoServico,
                 };
 
-                listFun.Add(usuarios);
+                listSer.Add(servicos);
             }
 
-            return listFun;
+            return listSer;
         }
-
-        public bool AtualizarUsuario(int id, string nome, string email, string telefone, string senha, int tipoUsuario)
+        public bool AtualizarServico(int id, string tipoServico, decimal valor)
         {
             try
             {
                 // Busca o usuário pelo ID
-                var usuario = _context.TbUsuarios.FirstOrDefault(u => u.Id == id);
-                if (usuario != null)
+                var servico = _context.TbServicos.FirstOrDefault(u => u.Id == id);
+                if (servico != null)
                 {
                     // Atualiza os dados do usuário
-                    usuario.Nome = nome;
-                    usuario.Email = email;
-                    usuario.Telefone = telefone;
-                    usuario.Senha = senha;  // Não se esqueça de criptografar a senha antes de atualizar
-                    usuario.TipoUsuario = tipoUsuario;
+                    servico.TipoServico = tipoServico;
+                    servico.Valor= valor;
 
                     // Salva as mudanças no banco de dados
                     _context.SaveChanges();
@@ -87,27 +93,26 @@ namespace Marynsino2513.Repositorios
             }
             catch (Exception ex)
             {
-                Console.WriteLine($"Erro ao atualizar o usuário com ID {id}: {ex.Message}");
+                Console.WriteLine($"Erro ao atualizar o serviço com ID {id}: {ex.Message}");
                 return false;
             }
         }
-
-        public bool ExcluirUsuario(int id)
+        public bool ExcluirServico(int id)
         {
             try
             {
                 // Busca o usuário pelo ID
-                var usuario = _context.TbUsuarios.FirstOrDefault(u => u.Id == id);
+                var servico = _context.TbServicos.FirstOrDefault(u => u.Id == id);
 
                 // Se o usuário não for encontrado, lança uma exceção personalizada
-                if (usuario == null)
+                if (servico == null)
                 {
                     throw new KeyNotFoundException("Usuário não encontrado.");
                 }
 
 
                 // Remove o usuário do banco de dados
-                _context.TbUsuarios.Remove(usuario);
+                _context.TbServicos.Remove(servico);
                 _context.SaveChanges();  // Isso pode lançar uma exceção se houver dependências
 
                 // Se tudo correr bem, retorna true indicando sucesso

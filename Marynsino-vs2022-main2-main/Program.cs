@@ -11,6 +11,7 @@ builder.Services.AddDbContext<BdMarynsinoContext>(options =>
 
 // Registrar o repositório (UsuarioRepositorio)
 builder.Services.AddScoped<UsuarioRepositorio>();  // Ou AddTransient ou AddSingleton dependendo do caso
+builder.Services.AddScoped<ServicoRepositorio>();
 // Registrar o repositório (UsuarioRepositorio)
 //builder.Services.AddScoped<ServicoRepositorio>();  // Ou AddTransient ou AddSingleton dependendo do caso
 
