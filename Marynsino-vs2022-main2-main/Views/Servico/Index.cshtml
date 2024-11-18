@@ -1,8 +1,7 @@
-﻿@{
-    Layout = "~/Views/Shared/_Layout_Gerenciamento.cshtml";
-}﻿
-
-@model IEnumerable<Marynsino2513.Models.ServicoVM>
+﻿@model IEnumerable<Marynsino2513.Models.ServicoVM>
+@{
+    Layout = "~/Views/Shared/_LayoutGerenciamento.cshtml";
+}
 
 <body>
 
@@ -12,7 +11,7 @@
 
             <div class="add-user-button">
                 <br>
-                <h1 class="section-title cliente-title-maneger">Gerenciamento de Serviço</h1>
+                <h1 class="section-title cliente-title-maneger" style="color: red">Gerenciamento de Serviço</h1>
                 <br>
             </div>
 
@@ -25,7 +24,7 @@
                     </div>
                     <div class="col-md-6 text-md-end">
                         <!-- Alteração para "text-md-end" para alinhar à direita apenas em telas médias e maiores -->
-                        <button class="btn btn-danger btn-lg" onclick="" data-bs-toggle="modal" data-bs-target="#InserirServico">
+                        <button class="btn btn-danger btn-lg" style="background-color: red" onclick="" data-bs-toggle="modal" data-bs-target="#InserirServico">
                             <i class="fa fa-plus"></i> Adicionar Serviço
                         </button>
                     </div>
@@ -40,11 +39,11 @@
                         </colgroup>
                         <thead>
                             <tr>
-                                <th style="color: #F7F5F2; border: 1px solid #ddd; padding: 8px; width: 50px; position: sticky; top: 0; background-color: #ac0404;">#</th>
-                                <th style="color: #F7F5F2; border: 1px solid #ddd; padding: 8px; width: 900px; position: sticky; top: 0; background-color: #ac0404;">Nome do Serviço</th>
-                                <th style="color: #F7F5F2; border: 1px solid #ddd; padding: 8px; width: 200px; position: sticky; top: 0; background-color: #ac0404;">Valor do Serviço</th>
-                                <th class="editar" style="color: #F7F5F2; border: 1px solid #ddd; padding: 8px; width: 50px; position: sticky; top: 0; background-color: #ac0404;">Editar</th>
-                                <th class="excluir" style="color: #F7F5F2; border: 1px solid #ddd; padding: 8px; width: 50px; position: sticky; top: 0; background-color: #ac0404;">Excluir</th>
+                                <th style="color: #F7F5F2; border: 1px solid #ddd; padding: 8px; width: 50px; position: sticky; top: 0; background-color: red;">#</th>
+                                <th style="color: #F7F5F2; border: 1px solid #ddd; padding: 8px; width: 900px; position: sticky; top: 0; background-color: red;">Nome do Serviço</th>
+                                <th style="color: #F7F5F2; border: 1px solid #ddd; padding: 8px; width: 200px; position: sticky; top: 0; background-color: red;">Valor do Serviço</th>
+                                <th class="editar" style="color: #F7F5F2; border: 1px solid #ddd; padding: 8px; width: 50px; position: sticky; top: 0; background-color: red;">Editar</th>
+                                <th class="excluir" style="color: #F7F5F2; border: 1px solid #ddd; padding: 8px; width: 50px; position: sticky; top: 0; background-color: red;">Excluir</th>
                             </tr>
                         </thead>
                     </table>
@@ -55,17 +54,17 @@
                                 @foreach (var servico in Model)
                                 {
                                     <tr>
-                                        <td style="color: #ac0404; border: 1px solid #ddd; padding: 8px; width: 50px">@servico.Id</td>
-                                        <td style="color: #ac0404; border: 1px solid #ddd; padding: 8px; width: 900px">@servico.TipoServico</td>
-                                        <td style="color: #ac0404; border: 1px solid #ddd; padding: 8px; width: 100px; text-align:center">@servico.Valor</td>
+                                        <td style="color: red; border: 1px solid #ddd; padding: 8px; width: 50px">@servico.Id</td>
+                                        <td style="color: red; border: 1px solid #ddd; padding: 8px; width: 900px">@servico.TipoServico</td>
+                                        <td style="color: red; border: 1px solid #ddd; padding: 8px; width: 100px; text-align:center">@servico.Valor</td>
 
                                         <td class="text-center" style="border: 1px solid #ddd;width: 50px">
-                                            <button class="btn btn-default" onclick="definirEdt('@servico.Id', '@servico.TipoServico', '@servico.Valor')" data-bs-toggle="modal" data-bs-target="#EditarServico" style="color: #EAE7DC;">
+                                            <button class="btn btn-default" onclick="definirEdt('@servico.Id', '@servico.TipoServico', '@servico.Valor')" data-bs-toggle="modal" data-bs-target="#EditarServico" style="color: black;">
                                                 <i class="fa fa-edit"></i>
                                             </button>
                                         </td>
                                         <td class="text-center" style="border: 1px solid #ddd;width: 50px">
-                                            <button class="btn btn-default" onclick="definirExc('@servico.Id', '@servico.TipoServico', '@servico.Valor')" data-bs-toggle="modal" data-bs-target="#ExcluirServico" style="color: #EAE7DC;">
+                                            <button class="btn btn-default" onclick="definirExc('@servico.Id', '@servico.TipoServico', '@servico.Valor')" data-bs-toggle="modal" data-bs-target="#ExcluirServico" style="color: red;">
                                                 <i class="fa fa-trash"></i>
                                             </button>
                                         </td>
@@ -90,7 +89,7 @@
                         <form>
                             <div class="mb-3">
                                 <label for="IdServico">Id do Serviço</label>
-                                <input style="background-color: #ac0404; color: #F7F5F2" type="number" id="ExcId" class="form-control" readonly>
+                                <input style="background-color:red; color: #F7F5F2" type="number" id="ExcId" class="form-control" readonly>
                             </div>
                         </form>
                         <div class="modal-footer">
@@ -143,9 +142,13 @@
                     </div>
                     <div class="modal-body">
                         <form>
-                            <div class="mb-3">
-                                <label for="EdtNome">Nome do Serviço</label>
-                                <input type="text" id="EdtNome" class="form-control" placeholder="Desenvolvimento FrontEnd">
+                            <div class="mb-3 row">
+                                <div class="col-md-6">
+                                    @Html.DropDownList("EdtTipoServico", ViewBag.lstTipoServico as SelectList, "Escolha o tipo de Serviço", new { @class = "form-control", @style = "width:230px; background-color: #EAE7DC; color: #333;", required = "required" })
+                                </div>
+                                <div class="col-md-6">
+                                    <label style="color:red">*</label>
+                                </div>
                             </div>
                             <div class="mb-3">
                                 <label for="EdtValor">Valor do Serviço</label>
@@ -169,92 +172,209 @@
     <section class="container text-center">
         <div class="d-grid gap-2 d-md-flex justify-content-md-end">
             <div>
-                <button type="button" id="send-button2" class="nav-link active btn btn-danger btn-block" style="flex: 1; margin-left: 5px;" onclick="window.location.href = '/Home/Index';">
+                <button type="button" id="send-button2" class="nav-link active btn btn-danger btn-block"  style="flex: 1; margin-left: 5px; background-color:red" onclick="window.location.href = '/Home/Index';">
                     Voltar
                 </button>
             </div>
         </div>
     </section>
 
-        <script>
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
 
-            function definirEdt(id, tiposervico, valor) {
-                console.log("tiposervico recebido:", tiposervico);  // Verifique o valor que está sendo passado para a função
+    <script src="~/lib/swiper/swiper-bundle.min.js"></script>    
 
-                $('#EdtId').val(id);
-                $('#EdtValor').val(valor);
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
 
-                if ($('#EdtTipoServico').length > 0) {
-                    console.log("Procurando valor no dropdown EdtTipoServico:", tiposervico);
-
-                    // Percorrer todas as opções para encontrar o valor correto
-                    var optionFound = false;
-
-                    $('#EdtTipoServico option').each(function () {
-                        // Comparar o texto das opções com o texto recebido
-                        if ($(this).text() === tiposervico) {
-                            // Marca a opção como selecionada
-                            $(this).prop('selected', true);
-                            optionFound = true;
-                        }
-                    });
-
-                    if (optionFound) {
-                        // Atualiza o chosen, se necessário
-                        $('#EdtTipoServico').trigger('chosen:updated');
-
-                        // Imprime no console o valor da opção selecionada
-                        var selectedValue = $('#EdtTipoServico').val();
-                        console.log("Valor selecionado no dropdown EdtTipoServico:", selectedValue);
-                    } else {
-                        console.log("Opção não encontrada no dropdown.");
-                    }
-                } else {
-                    console.error("DropDownList 'EdtTipoServico' não encontrado.");
-                }
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+       
+        $(document).ready(function () {
+            // Função para atualizar o contador de registros visíveis
+            function atualizarContador() {
+                var visibleRows = $('#TbServicosBody tbody tr:visible').length; // Conta as linhas visíveis
+                $('#registroCount').text(visibleRows); // Atualiza o contador
             }
 
-            function definirExc(id, nome, valor) {
-                console.log(id, nome, valor)
-                $('#ExcId').val(id);
-                $('#ExcServico').val(nome);
-                $('#ExcValor').val(valor);
-            }
+            // Quando o usuário digitar no campo de filtro
+            $('#filtro').on('keyup', function () {
+                var value = $(this).val().toLowerCase(); // Pega o valor do campo de filtro e converte para minúsculas
 
-            function InserirServico() {
-                // Coleta os valores dos campos HTML
-                var valor = $('#Valor').val();
-                var tipoServico = $('#TipoServico option:selected').text();
+                // Filtra as linhas do corpo da tabela
+                $('#TbServicosBody tbody tr').each(function () {
+                    // Verifica se qualquer célula na linha contém o valor digitado no filtro
+                    var rowText = $(this).text().toLowerCase();
+                    // Exibe ou oculta a linha, dependendo de conter o valor
+                    $(this).toggle(rowText.indexOf(value) > -1);
+                });
 
-                // Cria o objeto de dados que será enviado
-                var dados = {
-                    tipoServico: tipoServico,
-                    valor: valor
-                };
+                // Atualiza o contador após filtrar as linhas
+                atualizarContador();
+            });
 
-                // Requisição AJAX para o método InserirServico
-                $.ajax({
-                    url: '/Servico/InserirServico', // URL do método no controlador
-                    type: "POST",
-                    dataType: "json",
-                    data: dados,
-                    success: function (resultado) {
-                        // Verifica o sucesso da operação
-                        if (resultado.success) {
-                            alert(resultado.message);
-                            $('#InserirServico').modal('hide'); // Fecha o modal após a inserção
-                            location.reload(); // Recarrega a página para atualizar a lista de serviços
-                        } else {
-                            alert(resultado.message); // Exibe mensagem de erro
-                        }
-                    },
-                    error: function (xhr, status, error) {
-                        console.error("Erro ao inserir serviço:", status, error, xhr.responseText);
-                        alert('Erro na requisição AJAX: ' + xhr.responseText);
+            // Inicializa o contador de registros ao carregar a página
+            atualizarContador();
+        });
+
+        function definirEdt(id, tiposervico, valor) {
+            console.log("tiposervico recebido:", tiposervico);  // Verifique o valor que está sendo passado para a função
+
+            $('#EdtId').val(id);
+            $('#EdtValor').val(valor);
+
+            if ($('#EdtTipoServico').length > 0) {
+                console.log("Procurando valor no dropdown EdtTipoServico:", tiposervico);
+
+                // Percorrer todas as opções para encontrar o valor correto
+                var optionFound = false;
+
+                $('#EdtTipoServico option').each(function () {
+                    // Comparar o texto das opções com o texto recebido
+                    if ($(this).text() === tiposervico) {
+                        // Marca a opção como selecionada
+                        $(this).prop('selected', true);
+                        optionFound = true;
                     }
                 });
+
+                if (optionFound) {
+                    // Atualiza o chosen, se necessário
+                    $('#EdtTipoServico').trigger('chosen:updated');
+
+                    // Imprime no console o valor da opção selecionada
+                    var selectedValue = $('#EdtTipoServico').val();
+                    console.log("Valor selecionado no dropdown EdtTipoServico:", selectedValue);
+                } else {
+                    console.log("Opção não encontrada no dropdown.");
+                }
+            } else {
+                console.error("DropDownList 'EdtTipoServico' não encontrado.");
+            }
+        }
+
+        function definirExc(id, nome, valor) {
+            console.log(id, nome, valor)
+            $('#ExcId').val(id);
+            $('#ExcServico').val(nome);
+            $('#ExcValor').val(valor);
+        }
+
+        function InserirServico() {
+            // Coleta os valores dos campos HTML
+            var valor = $('#Valor').val();
+            var tipoServico = $('#TipoServico option:selected').text();
+
+            // Cria o objeto de dados que será enviado
+            var dados = {
+                tipoServico: tipoServico,
+                valor: valor
+            };
+
+            // Requisição AJAX para o método InserirServico
+            $.ajax({
+                url: '/Servico/InserirServico', // URL do método no controlador
+                type: "POST",
+                dataType: "json",              
+                data: dados,
+                success: function (resultado) {
+                    // Verifica o sucesso da operação
+                    if (resultado.success) {
+                        alert(resultado.message);
+                        $('#InserirServico').modal('hide'); // Fecha o modal após a inserção
+                        location.reload(); // Recarrega a página para atualizar a lista de serviços
+                    } else {
+                        alert(resultado.message); // Exibe mensagem de erro
+                    }
+                },
+                error: function (xhr, status, error) {
+                    console.error("Erro ao inserir serviço:", status, error, xhr.responseText);
+                    alert('Erro na requisição AJAX: ' + xhr.responseText);
+                }
+            });
+        }
+
+        function AtualizarServico() {
+            // Coleta os valores dos campos HTML
+            var id = $('#EdtId').val();  // ID do serviço que será atualizado
+            var tipoServico = $('#EdtTipoServico option:selected').text();  // Valor selecionado no dropdown
+            var valor = $('#EdtValor').val();  // Valor do serviço
+
+            // Verificar se os campos obrigatórios estão preenchidos
+            if (tipoServico === "" || tipoServico === "Escolha o tipo de Serviço") {
+                alert("Por favor, selecione um tipo de serviço.");
+                return;
             }
 
+            if (valor === "") {
+                alert("Por favor, insira o valor do serviço.");
+                return;
+            }
 
-        </script>
+            // Cria o objeto de dados que será enviado via AJAX
+            var dados = {
+                id: id,
+                tipoServico: tipoServico,
+                valor: valor
+            };
+
+            // Requisição AJAX para o método AtualizarServico no controller
+            $.ajax({
+                url: '/Servico/AtualizarServico', // URL do método no controlador
+                type: "POST",
+                dataType: "json",
+                data: dados,
+                success: function (resultado) {
+                    // Verifica o sucesso da operação
+                    if (resultado.success) {
+                        alert(resultado.message);  // Exibe mensagem de sucesso
+                        $('#EditarServico').modal('hide');  // Fecha o modal após a atualização
+                        location.reload();  // Recarrega a página para atualizar a lista de serviços
+                    } else {
+                        alert(resultado.message);  // Exibe mensagem de erro
+                    }
+                },
+                error: function (xhr, status, error) {
+                    console.error("Erro ao atualizar serviço:", status, error, xhr.responseText);
+                    alert('Erro na requisição AJAX: ' + xhr.responseText);
+                }
+            });
+        }
+
+        function ExcluirServico() {
+            // Captura o id do serviço a ser excluído
+            var id = $('#ExcId').val(); // Este valor deve ser passado para o modal antes de chamar a função
+
+            if (!id) {
+                alert("ID do serviço não encontrado.");
+                return;
+            }
+
+            // Confirmação antes de excluir
+            if (!confirm("Tem certeza de que deseja excluir este serviço?")) {
+                return; // Cancela a exclusão se o usuário não confirmar
+            }
+
+            // Requisição AJAX para o método ExcluirServico no controller
+            $.ajax({
+                url: '/Servico/ExcluirServico', // URL do método no controlador
+                type: "POST",
+                dataType: "json",
+                data: { id: id }, // Envia o id do serviço para o servidor
+                success: function (resultado) {
+                    // Verifica o sucesso da operação
+                    if (resultado.success) {
+                        alert(resultado.message); // Exibe mensagem de sucesso
+                        $('#ExcluirServico').modal('hide'); // Fecha o modal após a exclusão
+                        location.reload(); // Recarrega a página para atualizar a lista de serviços
+                    } else {
+                        alert(resultado.message); // Exibe mensagem de erro
+                    }
+                },
+                error: function (xhr, status, error) {
+                    console.error("Erro ao excluir serviço:", status, error, xhr.responseText);
+                    alert('Erro na requisição AJAX: ' + xhr.responseText);
+                }
+            });
+        }
+
+    </script>
 </body>

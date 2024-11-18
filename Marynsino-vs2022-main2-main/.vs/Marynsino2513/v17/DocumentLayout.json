@@ -3,24 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{13A0E546-8094-43DD-B266-D4D027F486E6}|Marynsino2513.csproj|c:\\users\\aluno noite\\downloads\\marynsino-banco2\\marynsino-vs2022-main2-main\\views\\servico\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{13A0E546-8094-43DD-B266-D4D027F486E6}|Marynsino2513.csproj|solutionrelative:views\\servico\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{97FB5A5B-506A-4EC5-9518-51EEBA067CAE}|..\\TestMarynsino\\TestMarynsino.csproj|c:\\users\\aluno noite\\downloads\\marynsino-banco2\\testmarynsino\\xunittestservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13A0E546-8094-43DD-B266-D4D027F486E6}|Marynsino2513.csproj|c:\\users\\aluno noite\\downloads\\marynsino-banco2\\marynsino-vs2022-main2-main\\orm\\bdmarynsinocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13A0E546-8094-43DD-B266-D4D027F486E6}|Marynsino2513.csproj|solutionrelative:orm\\bdmarynsinocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13A0E546-8094-43DD-B266-D4D027F486E6}|Marynsino2513.csproj|c:\\users\\aluno noite\\downloads\\marynsino-banco2\\marynsino-vs2022-main2-main\\repositorios\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13A0E546-8094-43DD-B266-D4D027F486E6}|Marynsino2513.csproj|solutionrelative:repositorios\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13A0E546-8094-43DD-B266-D4D027F486E6}|Marynsino2513.csproj|c:\\users\\aluno noite\\downloads\\marynsino-banco2\\marynsino-vs2022-main2-main\\repositorios\\servicorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13A0E546-8094-43DD-B266-D4D027F486E6}|Marynsino2513.csproj|solutionrelative:repositorios\\servicorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13A0E546-8094-43DD-B266-D4D027F486E6}|Marynsino2513.csproj|c:\\users\\aluno noite\\downloads\\marynsino-banco2\\marynsino-vs2022-main2-main\\models\\servicovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13A0E546-8094-43DD-B266-D4D027F486E6}|Marynsino2513.csproj|solutionrelative:models\\servicovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97FB5A5B-506A-4EC5-9518-51EEBA067CAE}|..\\TestMarynsino\\TestMarynsino.csproj|c:\\users\\aluno noite\\downloads\\marynsino-banco2\\testmarynsino\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +16,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,67 +24,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\Views\\Servico\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Servico\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\Views\\Servico\\Index.cshtml",
-              "RelativeToolTip": "Views\\Servico\\Index.cshtml",
-              "ViewState": "AQIAAJkAAAAAAAAAAAAAALIAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-14T20:40:51.442Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "BdMarynsinoContext.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\ORM\\BdMarynsinoContext.cs",
-              "RelativeDocumentMoniker": "ORM\\BdMarynsinoContext.cs",
-              "ToolTip": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\ORM\\BdMarynsinoContext.cs",
-              "RelativeToolTip": "ORM\\BdMarynsinoContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\TestMarynsino\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\TestMarynsino\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\TestMarynsino\\UnitTest1.cs",
+              "RelativeToolTip": "..\\TestMarynsino\\UnitTest1.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAwwFUAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T20:39:56.684Z",
+              "WhenOpened": "2024-11-18T18:24:01.732Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ServicoRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\Repositorios\\ServicoRepositorio.cs",
-              "RelativeDocumentMoniker": "Repositorios\\ServicoRepositorio.cs",
-              "ToolTip": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\Repositorios\\ServicoRepositorio.cs",
-              "RelativeToolTip": "Repositorios\\ServicoRepositorio.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAANAAAA",
+              "DocumentIndex": 0,
+              "Title": "XunitTestServico.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\TestMarynsino\\XunitTestServico.cs",
+              "RelativeDocumentMoniker": "..\\TestMarynsino\\XunitTestServico.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\TestMarynsino\\XunitTestServico.cs",
+              "RelativeToolTip": "..\\TestMarynsino\\XunitTestServico.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFkAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T20:39:07.468Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UsuarioRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\Repositorios\\UsuarioRepositorio.cs",
-              "RelativeDocumentMoniker": "Repositorios\\UsuarioRepositorio.cs",
-              "ToolTip": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\Repositorios\\UsuarioRepositorio.cs",
-              "RelativeToolTip": "Repositorios\\UsuarioRepositorio.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAHwAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T20:09:35.036Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ServicoVM.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\Models\\ServicoVM.cs",
-              "RelativeDocumentMoniker": "Models\\ServicoVM.cs",
-              "ToolTip": "C:\\Users\\Aluno Noite\\Downloads\\Marynsino-BANCO2\\Marynsino-vs2022-main2-main\\Models\\ServicoVM.cs",
-              "RelativeToolTip": "Models\\ServicoVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T20:00:50.276Z",
+              "WhenOpened": "2024-11-18T18:01:17.213Z",
               "EditorCaption": ""
             }
           ]
